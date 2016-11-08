@@ -1,0 +1,21 @@
+{
+	"automocion": [
+		"audi",
+		"seat",
+		"ferrari",
+		"lada",
+		"toyota",
+		"mercedes",
+		"bmw"
+	],
+	"alimentacion": [
+		"manzana",
+		"pera",
+		"pistacho",
+		"altramuz"
+	],
+	"bebidas": [
+		"cerveza",
+		"vino rioja"
+	]	
+}
